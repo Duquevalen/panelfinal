@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+.titulo{
+    font-size: 25px;
+    color: #025464;
+    text-align: center;
+    align-items: center;
+    font-family: 'Merienda', cursive;
+    margin-left: 30%;
+    
+   
+}
+.info{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.infoItem{
+    flex: 1;
+    margin: 45px 20px;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    font-family: 'Merienda', cursive;
+    background-color: rgba(255, 255, 255, 0.527);
+}
+.imagenn{
+    width: 220px;
+    height: 150px;
+}
+.infoTitle{
+    font-size: 20px;
+   
+}
+.infoContainer{
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+}
+@media screen and (max-width: 900px){
+    .titulo{
+        font-size: 25px;
+        margin: 20%;
+    }
+}

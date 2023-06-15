@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+.anll{
+    flex: 4;
+}
+.Analisis{
+    margin: 20px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 40%;
+    background-color: white;
+}
+.til{
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Merienda', cursive;
+ 
+}
+.prro{
+    margin-top: 20px;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 130px;
+    font-family: 'Merienda', cursive;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    text-align: center;
+    font-size: 16px;
+    height: 50px;
+}
+.mn{
+    padding-top: 40px;
+    font-size: 20px;
+}
+.www{
+    padding-top: 10px;
+}

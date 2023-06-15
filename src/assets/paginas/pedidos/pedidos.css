@@ -1,0 +1,17 @@
+
+.pedidos{
+    flex: 4;
+    
+
+}
+.mak{
+    margin: 20px;
+    width: 50px;
+    display: flex;
+    float: left;
+    text-align: center;
+    padding-right: 200px;
+    margin-left: 50px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}

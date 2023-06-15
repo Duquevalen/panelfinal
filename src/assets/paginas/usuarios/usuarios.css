@@ -1,0 +1,15 @@
+.Usuarios{
+    flex: 4;
+}
+.lista{
+    display: flex;
+    padding: 15px;
+    position: relative;
+    float: left;
+    width: 20%;
+    margin: 10px;
+    height: 55px;
+    margin-left: 65px;
+    
+    
+}

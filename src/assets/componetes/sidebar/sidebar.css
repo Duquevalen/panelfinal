@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+.sidebarL{
+    flex: 1;
+    height: 100svh;
+    background-color:rgba(231, 213, 224, 0.705);
+    position: sticky;
+    top: 50px;
+    font-family: 'Merienda', cursive;
+}
+.sidebarWrapper{
+    padding: 20px;
+    color: #464545;
+    
+}
+.sidebarMenu{
+    margin-bottom: 10px;
+}
+.sidebarTitle{
+    font-size: 14px;
+    color:rgb(161, 159, 159);
+    text-align: center;
+}
+    
+.sidebarList{
+    list-style: none;
+    padding: 15px;
+}
+
+.sidebarLisItem{
+    padding: 4px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+.sidebarLisItem.active,
+.sidebarLisItem:hover{
+    background-color: #edb1b1;
+}
+.sidebarIcon{
+    margin-right: 5px;
+    font-size: 20px !important;
+}
+a:-webkit-any-link{
+    text-decoration: dotted;
+    color: #555;
+}
